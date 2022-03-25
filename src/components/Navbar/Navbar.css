@@ -2,6 +2,7 @@
     background-color: #5c5c5c;
     color: white;
     height: 100px;
+    width: 100%;
 }
 .navbar h1{
     text-align: center;
@@ -9,4 +10,12 @@
     padding-top: 10px;
     font-size: 38px;
     font-family: "Metamorphous", cursive;
+}
+@media (max-width:430px) {
+    .navbar{
+        width: 138%;
+    }
+    .shop-container{
+        grid-template-columns: 2fr 1fr;
+    }
 }

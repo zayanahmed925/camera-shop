@@ -9,3 +9,11 @@
     grid-gap: 30px;
     /* background-color: blueviolet; */
 }
+@media (max-width:430px) {
+    .camera-container {
+        grid-template-columns: repeat(1,1fr) ;
+    }
+    .shop-container{
+        grid-template-columns: 2fr 1fr;
+    }
+}
