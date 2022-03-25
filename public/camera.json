@@ -8,61 +8,61 @@
     {
         "id": 2,
         "name": "Canon 5D",
-        "salary": 1400,
+        "price": 1400,
         "img": "https://images.unsplash.com/photo-1591016497221-92883bcd5bad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 3,
         "name": "Canon Rivel",
-        "salary": 1100,
+        "price": 1100,
         "img": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 4,
         "name": "Fujifilm XT10",
-        "salary": 1000,
+        "price": 1000,
         "img": "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80.jpg"
     },
     {
         "id": 5,
         "name": "Canon 80D",
-        "salary": 1150,
+        "price": 1150,
         "img": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 6,
         "name": "Nikon D810",
-        "salary": 1150,
+        "price": 1150,
         "img": "https://images.unsplash.com/photo-1624913503273-5f9c4e980dba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 7,
         "name": "Nikon Z6",
-        "salary": 1250,
+        "price": 1250,
         "img": "https://images.unsplash.com/photo-1517282079187-899edd773b0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 8,
         "name": "Nikon D750",
-        "salary": 1050,
+        "price": 1050,
         "img": "https://images.unsplash.com/photo-1510317332875-735378a2a7b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80.jpg"
     },
     {
         "id": 9,
         "name": "Nikon D3100",
-        "salary": 9500,
+        "price": 9500,
         "img": "https://images.unsplash.com/photo-1526352491606-c6dac2d369d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 10,
         "name": "Canon R3 ",
-        "salary": 1600,
+        "price": 1600,
         "img": "https://images.unsplash.com/photo-1576542067399-63f86663769c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     },
     {
         "id": 11,
-        "name": "Sony A6400",
-        "salary": 1650,
-        "img": "https://images.unsplash.com/photo-1613832708002-21dea56c20f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80.jpg"
+        "name": "Cannon 700D",
+        "price": 1150,
+        "img": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg"
     }
 ]

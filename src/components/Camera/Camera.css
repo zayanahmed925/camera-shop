@@ -1,0 +1,20 @@
+.camera{
+    background-color: rgba(238, 222, 202, 0.842);
+    /* border:1px solid #95A0A7; */
+    /* border: 3px solid white; */
+    border-radius: 15px;
+    box-shadow: 6px 7px 10px rosybrown;
+    
+}
+.camera img{
+    width: 300px;
+    border-radius: 10px;
+    padding: 17px;
+    border: 3px solid white;
+}
+.camera-button{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(241, 210, 153);
+    border-radius: 10px;
+}
