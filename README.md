@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Camera Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Camera Shop Live Site Link (https://coruscating-taffy-3b8577.netlify.app/).
 
 ## Available Scripts
 
