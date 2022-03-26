@@ -1,6 +1,6 @@
 import './Cart.css';
 const Cart = (props) => {
-    let { cart, clearCart, randomCreate, randomProduct } = props
+    let { cart, clearCart, randomCreate, randomProduct } = props;
     return (
         <div>
             <h2 className="cart-title">Selected Camera</h2>
