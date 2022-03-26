@@ -41,7 +41,7 @@ const Shop = () => {
                     ></Camera>)
                 }
             </div>
-            <div className="chart-container">
+            <div className="cart-container">
                 <Cart cart={cart}
                     clearCart={clearCart}
                     randomCreate={randomCreate}

@@ -1,13 +1,19 @@
 .shop-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 1fr;
     margin: 20px 10px;
 }
 .camera-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
     /* background-color: blueviolet; */
+}
+.cart-container{
+    background-color: rgba(233, 222, 67, 0.253);
+    border-radius: 20px;
 }
 @media (max-width:430px) {
     .camera-container {

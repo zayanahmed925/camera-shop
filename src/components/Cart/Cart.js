@@ -1,14 +1,20 @@
+import './Cart.css';
 const Cart = (props) => {
     let { cart, clearCart, randomCreate, randomProduct } = props
     return (
         <div>
-            <h2>Selected Camera</h2>
+            <h2 className="cart-title">Selected Camera</h2>
             {
-                cart.map(camera => <h4 key={camera.id}>  Name: {camera.name}</h4>)
+                cart.map(camera => <h4 className='selected-camera' key={camera.id}>  Name: {camera.name}</h4>)
             }
-            <h2>ran: {randomProduct?.name} </h2>
-            <button onClick={randomCreate}>Random Choose</button><br />
-            <button onClick={clearCart} >Clear Cart</button>
+            <div className="random-container">
+                <button className='random-btn' onClick={randomCreate}>Random Choose</button>
+
+            </div>
+            <h2 className='random-product'>{randomProduct?.name} </h2>
+            <div className="clear-container">
+                <button className='clear-btn' onClick={clearCart} >Clear Cart</button>
+            </div>
         </div>
     );
 };

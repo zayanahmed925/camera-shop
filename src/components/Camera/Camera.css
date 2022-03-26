@@ -4,13 +4,17 @@
     /* border: 3px solid white; */
     border-radius: 15px;
     box-shadow: 6px 7px 10px rosybrown;
+    width: 270px;
     
 }
 .camera img{
-    width: 300px;
+    width: 230px;
     border-radius: 10px;
     padding: 17px;
     border: 3px solid white;
+}
+.card-info{
+    padding-left: 15px;
 }
 .camera-button{
     width: 100%;

@@ -7,8 +7,10 @@ const Camera = (props) => {
     return (
         <div className='camera'>
             <img src={img} alt="" />
-            <h2>name: {name} </h2>
-            <p>Price: ${price}</p>
+            <div className="card-info">
+                <h2> {name} </h2>
+                <p>Price: ${price}</p>
+            </div>
             <button onClick={() => setCartHandle(camera)} className='camera-button'>
                 <p className='cart-text'>Add to Cart</p><p><FiShoppingCart className='icon'></FiShoppingCart></p></button>
         </div>
