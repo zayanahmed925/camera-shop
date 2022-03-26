@@ -13,3 +13,9 @@
     border: 3px solid goldenrod;
     padding: 10px;
 }
+
+@media screen and (max-width:430px) {
+    .question-container{
+        margin: 10px;
+    }
+}
